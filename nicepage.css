@@ -360,7 +360,7 @@ span.fr-img-caption.fr-view {
       float: right;
       margin: 5px 0 5px 5px;
       max-width: calc(100% - 5px); }
-/*end-commonstyles library*//*begin-commonstyles library*/@charset "UTF-8";
+/*end-commonstyles library*//*begin-commonstyles library*/
 
 /*!
  * animate.css -https://daneden.github.io/animate.css/
@@ -32748,7 +32748,7 @@ a.u-link.u-text-hover-body-color:hover {
 .u-text-body-alt-color,
 a.u-button-style.u-text-body-alt-color,
 a.u-button-style.u-text-body-alt-color[class*="u-border-"] {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 a.u-button-style.u-text-body-alt-color:hover,
 a.u-button-style.u-text-body-alt-color[class*="u-border-"]:hover,
@@ -33745,6 +33745,14 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-text-body-alt-color,
+  a.u-button-style.u-text-body-alt-color,
+  a.u-button-style.u-text-body-alt-color[class*="u-border-"] {
+    color: #ffffff !important;
+  }
+  .title-name{
+    color:black !important;
+  }
   .u-footer .u-sheet-1 {
     min-height: 36px;
   }
@@ -33754,6 +33762,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
+
+
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/

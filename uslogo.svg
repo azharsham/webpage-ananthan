@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="432" viewBox="0 0 220 432">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="489" viewBox="0 0 220 489">
   <defs>
     <clipPath id="clip-path">
-      <rect y="143" width="220" height="432" fill="none"/>
+      <rect y="134" width="220" height="489" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Scroll_Group_2" data-name="Scroll Group 2" transform="translate(0 -143)" clip-path="url(#clip-path)" style="isolation: isolate">
+  <g id="Scroll_Group_2" data-name="Scroll Group 2" transform="translate(0 -134)" clip-path="url(#clip-path)" style="isolation: isolate">
     <text id="us" transform="translate(0 406)" font-size="256.652" font-family="AgencyFB-Reg, Agency FB" text-decoration="underline" baseline-shift="-146.6520046035973"><tspan x="0" y="0">US</tspan></text>
   </g>
 </svg>
